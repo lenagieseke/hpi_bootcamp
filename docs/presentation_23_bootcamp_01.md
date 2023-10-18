@@ -879,9 +879,3 @@ template:inverse
 .center[<img src="./img/logo.png" alt="logo" style="width:60%;">]
 
 
-???
-.task[COMMENT:]  
-
-Und damit beende ich meinem Implus für heute und freue mich auf die Paneldiskussion.
-
-
