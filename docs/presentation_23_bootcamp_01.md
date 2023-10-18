@@ -494,7 +494,7 @@ template:inverse
 
 ## Germany: *Green Shooting*
 
-.center[<img src="./img/greenshooting_ak_01.jpg" alt="greenshooting_ak_01" style="width:100%;">]
+.center[<img src="./img/greenshooting_ak_01.JPG" alt="greenshooting_ak_01" style="width:100%;">]
 
 .footnote[[MFG Medien- und Filmgesellschaft Baden-Württemberg, Arbeitskreis Green Shooting. 2021. [*Tatort: Fünf Minuten Himmel - Green Shooting Ergebnisbericht*](https://greenshooting.mfg.de/files/02_MFG_Filmfoerderung/PDF/tatort_green_shooting_ergebnisbericht.pdf).]]
 
