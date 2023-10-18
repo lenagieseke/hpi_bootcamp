@@ -34,7 +34,7 @@ layout: false
 
 ...kläre ich zunächst die Begrifflichkeiten und das Problem, bespreche dann...
 --
-* Current numbers and activities
+* Film Production: current numbers and activities
 
 ???
 .task[COMMENT:]  
@@ -42,6 +42,10 @@ layout: false
 ...wo wir stehen...
 
 Also, kurz von ganz vorne, was bedeutet es eigentlich...
+
+--
+* Interviewpartners for tomorrow
+
 
 ---
 template:inverse
@@ -500,7 +504,7 @@ template:inverse
 
 --
 
-### Projekt *100 Grüne Produktionen*
+### Project *100 Grüne Produktionen*
 
 ---
 .header[Current Numbers and Activities | Sustainable Activities | *Green Shooting*]
