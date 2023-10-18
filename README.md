@@ -1,1 +1,1 @@
-# hpi_bootcamp
+https://lenagieseke.github.io/hpi_bootcamp/
