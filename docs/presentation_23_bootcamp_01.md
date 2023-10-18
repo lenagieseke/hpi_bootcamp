@@ -60,8 +60,8 @@ Also, kurz von ganz vorne, was bedeutet es eigentlich...
 ---
 template:inverse
 
-# Clarification of Terms
-## *Green? Clean?*
+### Clarification of Terms
+# *Green? Clean?*
 
 
 ???
@@ -143,11 +143,16 @@ Und worum das ganze nochmal?
 
 Unser akutes Problem ist...
 
+---
+template:inverse
+
+### Clarification of Terms
+# The Problem
 
 ---
 .header[Clarification of Terms]
 
-## Problem
+## The Problem
 
 .center[<img src="./img/greenhouse_01.png" alt="greenhouse" style="width:50%;">  [[Sustainability Illustrated]](https://www.youtube.com/watch?v=z5OYFCDOw7A)]  
 
@@ -177,7 +182,7 @@ Global warming is the result of greenhouse gas emissions, as well as unsustainab
 Das ist ein Problem.
 
 ---
-.header[Clarification of Terms | Problem]
+.header[Clarification of Terms | The Problem]
 
 ## Annual Global Greenhouse Gas Emissions
 
@@ -239,7 +244,7 @@ One metric ton of CO₂ corresponds to
 
 --
 
-* Possible positive feature in an economic context
+* Possible feature in an economic context
 
 --
 * Correct determination is still a challenge
@@ -268,7 +273,7 @@ One metric ton of CO₂ corresponds to
 ## CO<sub>2</sub>-Footprint
 
 
-* Fun fact: CO<sub>2</sub>-Footprint became a common term through a $100 million marketing campaign by BP.
+*Fun fact*: CO<sub>2</sub>-Footprint became a common term through a $100 million marketing campaign by BP.
 
 .footnote[[Geoffrey Supran and Naomi Oreskes. 2021. [*The forgotten oil ads that told us climate change was nothing*](https://www.theguardian.com/environment/2021/nov/18/the-forgotten-oil-ads-that-told-us-climate-change-was-nothing). The Guardian.]]
 
@@ -353,6 +358,8 @@ It is becoming increasingly likely that efficiency gains of current technologies
 .header[Clarification of Terms | Greenhouse Gas Emissions]
 
 ## CO<sub>2</sub>-Footprint
+
+--
 
 > We use green electricity - so it's all good!
 
@@ -467,21 +474,50 @@ Bei allen Spielfilmproduktionen trugen Flugreisen und Versorgungsunternehmen in 
 
 ### -> 25.000 - 50.000 growing trees for an absorption
 
+---
+template:inverse
+
+### Current Numbers and Activities
+# Sustainable Activities
 
 ---
-.header[Current Numbers and Activities | Implementation of Sustainable Activities]
+.header[Current Numbers and Activities | Sustainable Activities]
 
-## Working Group *Green Shooting*
+## North America: *Green Production Guide*
 
-### 100 Grüne Produktionen
+.center[<img src="./img/green_production_guide_02.png" alt="green_production_guide_02" style="width:100%;">]
+
+.footnote[[Producers Guild of America Foundation. 2023. [*Green Production Guide*](https://greenproductionguide.com/).]]
+
+--
+
+> Your guide to sustainable production. Developed by film industry leaders with environmental expertise, the Green Production Guide offers the tools, resources, and vendors you need to reduce the environmental impact of your production.
+
+---
+.header[Current Numbers and Activities | Sustainable Activities]
+
+## Italy: *Green Film*
+
+.center[<img src="./img/greenfilm_01.png" alt="greenfilm_01" style="width:100%;">]
+
+.footnote[[Green Film. 2023. [*Rating system and certification for a sustainable film production*](https://www.green.film/).]]
+
+
+---
+.header[Current Numbers and Activities | Sustainable Activities]
+
+## Germany: *Green Shooting*
 
 .center[<img src="./img/greenshooting_ak_01.jpg" alt="greenshooting_ak_01" style="width:100%;">]
 
 .footnote[[MFG Medien- und Filmgesellschaft Baden-Württemberg, Arbeitskreis Green Shooting. 2021. [*Tatort: Fünf Minuten Himmel - Green Shooting Ergebnisbericht*](https://greenshooting.mfg.de/files/02_MFG_Filmfoerderung/PDF/tatort_green_shooting_ergebnisbericht.pdf).]]
 
+--
+
+### Projekt *100 Grüne Produktionen*
 
 ---
-.header[Current Numbers and Activities | Implementation of Sustainable Activities]
+.header[Current Numbers and Activities | Sustainable Activities | *Green Shooting*]
 
 ## Example Tatort
 
@@ -519,9 +555,9 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 * Als Beispiel aus Deutschland hat der TV-Film Tatort: „Fünf Minuten Himmel“ (2015) als Ergebnis des Green-Producing 42% weniger Emissionen produziert und dabei 53 Tonnen CO2-Ausstoß eingespart.
 
 ---
-.header[Current Numbers and Activities]
+.header[Current Numbers and Activities | Sustainable Activities | *Green Shooting*]
 
-## Implementation of Sustainable Activities
+## CO<sub>2</sub>-Calculator for Film and TV Productions
 
 .center[<img src="./img/rechner_01.jpg" alt="rechner_01" style="width: 100%;">]
 
@@ -536,7 +572,8 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 .footnote[[KlimAktiv. 2023. [*Drehen mit dem Klima im Blick*](https://www.klimaktiv.de/de/394/).]]
 
 ---
-.header[Current Numbers and Activities | Implementation of Sustainable Activities]
+.header[Current Numbers and Activities | Sustainable Activities | *Green Shooting*]
+
 
 ## CO<sub>2</sub>-Calculator for Film and TV Productions
 
@@ -545,7 +582,7 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 --
 
 * TARGET data, ACTUAL data per sector (CO<sub>2</sub>e emissions in kg)
-    * Energy, Travel and transportation, Catering, Material
+    * Energy, travel and transportation, catering, materials
   
 --
   
@@ -555,7 +592,7 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 
 
 ---
-.header[Current Numbers and Activities | Implementation of Sustainable Activities | CO<sub>2</sub>-Calculator]
+.header[Current Numbers and Activities | Sustainable Activities | CO<sub>2</sub>-Calculator]
 
 
 ## Example VFX
@@ -571,31 +608,6 @@ Workstations (8 h/day) and server farm (20h/day) per day
 
 
 
-???
-.task[COMMENT:]  
-
-
-* Computerarbeitsplätze
-    * Anzahl Budget-Computer (200 W)  
-        ⇾ Internet-surfen, E-Mail, Büroanwendungen, Musik hören, Bilder, Videos
-    * Anzahl Mittelklasse-Computer (> 200 W, < 500 W)   
-        ⇾ hochauflösende Videos, einfache Spiele, einfache Grafikbearbeitung
-    * Anzahl Gaming / Grafik-Computer (> 500 W)  
-        ⇾ anspruchsvolle Grafik, Grafikbearbeitung, anspruchsvolle Spiele
-* Server (z.B. Renderfarm)
-    * Hardware / Anzahl der nodes
-    * CPU, GPU
-* Bildschirme and Displays
-    * CRT, LED, LCD, Plasma
-    * Bildschirmgröße
-    * LED-Wände
-* Speicher, Cloud Storage
-    * Datenmenge
-    * Schreibe-/Leseaktivität
-* Cloud Computing
-    * CPU, GPU
-
---
 
 .center[<img src="./img/rechner_details_01.png" alt="rechner_details_01" style="width:70%;">]
 
@@ -618,6 +630,29 @@ Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
     * CPU Render Farm, 100 nodes, Abwärme 234,16 kg / 16,73 kg
     * GPU Render Farm, 100 nodes, Klimaanlage 891,85 kg / 63,44 kg
     * GPU Render Farm, 100 nodes, Abwärme 702,27 kg / 49,98 kg
+
+
+* Computerarbeitsplätze
+    * Anzahl Budget-Computer (200 W)  
+        ⇾ Internet-surfen, E-Mail, Büroanwendungen, Musik hören, Bilder, Videos
+    * Anzahl Mittelklasse-Computer (> 200 W, < 500 W)   
+        ⇾ hochauflösende Videos, einfache Spiele, einfache Grafikbearbeitung
+    * Anzahl Gaming / Grafik-Computer (> 500 W)  
+        ⇾ anspruchsvolle Grafik, Grafikbearbeitung, anspruchsvolle Spiele
+* Server (z.B. Renderfarm)
+    * Hardware / Anzahl der nodes
+    * CPU, GPU
+* Bildschirme and Displays
+    * CRT, LED, LCD, Plasma
+    * Bildschirmgröße
+    * LED-Wände
+* Speicher, Cloud Storage
+    * Datenmenge
+    * Schreibe-/Leseaktivität
+* Cloud Computing
+    * CPU, GPU
+
+
 
 
 
@@ -713,27 +748,27 @@ Fußabdruck-Berechnungen weisen eine große Bandbreite auf, die von verschiedene
 ---
 .header[Current Numbers and Activities]
 
-## Implementation of Sustainable Activities
+## Sustainable Activities
 
 --
 
 *  CO<sub>2</sub>-Calculator (usage vs. life cycle?)
 
 --
-* Measure and calculate yourself
+* Measure and calculate data yourself
 
 --
 * Rely on information from manufacturers
 
 --
 
-> It is laborious and difficult!
+> All is laborious and difficult!
 
 
 ---
 .header[Current Numbers and Activities]
 
-## Implementation of Sustainable Activities
+## Sustainable Activities
 
 
 .center[<img src="./img/sustainability-adoption.png" alt="Studio Sustainable Best Practices adoption rate" style="width: 100%;">]
@@ -771,11 +806,11 @@ Neben seiner Professur für für Film- und Fernsehproduktion an der Filmuniversi
 ---
 .header[Interviewpartners]
 
-## Laila Lala | Co-Founder Greenigma & Green Consultant Film & TV
+## [Greenigma](https://www.greenigma.de/en/)
 
 Greenigma is a green consultant agency for the cultural industry - from exhibitions to multimedia art to events. Greenigma's expertise lies in mentoring and monitoring film, TV and advertising productions.
 
-### Co-Founder Greenigma & Green Consultant
+### [Laila Lala](https://www.linkedin.com/in/laila-lala-94231a33/) | Co-Founder Greenigma & Green Consultant Film & TV
 
 Next to being a co-founder of Greenigma, Laila has worked on multiple film & TV productions as green consultant, from pre- to post-production, having hands-on experience e.g. with computing the CO2 balance and completing a sustainability report for a production.
 
@@ -783,19 +818,19 @@ Next to being a co-founder of Greenigma, Laila has worked on multiple film & TV 
 ---
 .header[Interviewpartners]
 
-## Simon Sturzenegger, Rotor Film GmbH
+## [Rotor Film](https://rotor-film.com/)
 
 Rotor is one of Europe’s leading post production companies. Its services include:
 
-* Sound Design, Re-Recording Mixing, Foley, ADR, Dialogue Design, Crowds, Dubbed Versions, 3D Audio
+* Sound Design, Re-Recording Mixing, Foley, Dialogue Design, Crowds, Dubbed Versions, 3D Audio
 * Colour Grading, Editing, Dailies, Title Design, Conforming, Mastering
 * Transfer / QC, Storage Solutions
 * Screening & Event Facilities
 
 
-### Senior Workflow Specialist
+### [Simon Sturzenegger](https://www.linkedin.com/in/simonsturzenegger/) | Senior Workflow Specialist
 
-R&D for new workflows and automation of repetitive tasks using new technologies. 
+Research and development for new workflows and automation of repetitive tasks using new technologies. 
 
 
 ???
@@ -807,31 +842,37 @@ R&D for new workflows and automation of repetitive tasks using new technologies.
 ---
 .header[Interviewpartners]
 
-## Leonardo Re, freispace GmbH
+## [freispace](https://freispace.com/de/)
 
 freispace offers a resource planner for VFX and post production processes. The team is currently working on the inclusion of CO2 budgeting within the tool.
 
-### Geschäftsführung, Gründer
+### [Leonardo Re](https://www.linkedin.com/in/leonardore/) | Gründer & Geschäftsführung 
 
-After working multiple years as a line producer, e.g. for Netflix oOriginals, he founded in 2022 freispace to implement a post-production scheduling software that he was missing on the job.
+After working multiple years as a line producer, e.g. for Netflix originals, he founded in 2022 freispace to implement a post-production scheduling software that he was missing on the job.
 
 
 ---
 .header[Interviewpartners]
 
-## Andreas Porada, Ruslan Mstoian,  Marit Krücken (online), UFA GmbH
+## [UFA](https://www.ufa.de/) 
 
-Ufa, established 1917, is a film and television production company and is currently considered one of the largest German production companies. UFA operates with three production divisions: UFA Fiction, UFA Serial Drama, UFA Show & Factual (UFA Documentary). 
+Ufa, established 1917, is a film and television production company and is considered one of the largest German production companies. UFA operates with three production divisions: UFA Fiction, UFA Serial Drama, UFA Show & Factual (UFA Documentary). 
 
-### Business IT and Production Workflows
+### [Andreas Porada](https://www.linkedin.com/in/andreas-porada-63844515b/), Ruslan Mstoian | Business IT and Production Workflows
 
-Andreas Porada is Senior Project Manager IT and is responsible for IT infrastructure, workflows and data management within the UFA. With him works, Ruslan Mstoian is part of the Business IT unit.
+Andreas is Senior Project Manager IT and is responsible for IT infrastructure, workflows and data management within the UFA. Ruslan is part of the Business IT unit.
 
-Marit Krücken is Projectmanager Production Workflows, supporting the production process with concepts for in-house tools and the handling of dark data & AI.
+###  Marit Krücken (online) | Project Manager Production Workflows
+
+Marit supports the production process with concepts for in-house tools and the handling of dark data & AI.
 
 
 ---
 template:inverse
+
+
+.center[<img src="./img/logo.png" alt="logo" style="width:60%;">]
+
 
 #### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
 
