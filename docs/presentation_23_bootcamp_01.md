@@ -17,21 +17,7 @@ class: center, middle, inverse
 ???
 .task[COMMENT:]  
 
-Heute soll es um grüne Zukunft gehen -- Stichworte die eine KI beispielsweise wie folgt...
 
----
-layout: false
-
-.center[<img src="./img/teaser_01a.png" alt="teaser_01a" style="width:90%;">]
-
-<!-- .footnote[[Lena Gieseke. 2023. Dall-E 2]] -->
-
-
-???
-.task[COMMENT:]  
-
-...visualisiert.
-  
 Ich aber beginne unseren gemeinsamen Nachmittag mit einem kurzen Blick auf Realität, sprich Current Numbers and Activities. 
   
 Dazu...
@@ -812,7 +798,19 @@ Greenigma is a green consultant agency for the cultural industry - from exhibiti
 
 ### [Laila Lala](https://www.linkedin.com/in/laila-lala-94231a33/) | Co-Founder Greenigma & Green Consultant Film & TV
 
-Next to being a co-founder of Greenigma, Laila has worked on multiple film & TV productions as green consultant, from pre- to post-production, having hands-on experience e.g. with computing the CO2 balance and completing a sustainability report for a production.
+Next to being a co-founder of Greenigma, Laila has worked on multiple film & TV productions as green consultant, from pre- to post-production, having hands-on experience e.g. with computing the CO<sub>2</sub>-balance and completing a sustainability report for a production.
+
+---
+.header[Interviewpartners]
+
+## [freispace](https://freispace.com/de/)
+
+freispace offers a resource planner for VFX and post production processes. The team is currently working on the inclusion of CO2 budgeting within the tool.
+
+### [Leonardo Re](https://www.linkedin.com/in/leonardore/) | Gründer & Geschäftsführung 
+
+After working multiple years as a line producer, e.g. for Netflix originals, he founded in 2022 freispace to implement a post-production scheduling software that he was missing on the job.
+
 
 
 ---
@@ -838,17 +836,6 @@ Research and development for new workflows and automation of repetitive tasks us
 
 * Babelsberg, Berlin and Munich
 
-
----
-.header[Interviewpartners]
-
-## [freispace](https://freispace.com/de/)
-
-freispace offers a resource planner for VFX and post production processes. The team is currently working on the inclusion of CO2 budgeting within the tool.
-
-### [Leonardo Re](https://www.linkedin.com/in/leonardore/) | Gründer & Geschäftsführung 
-
-After working multiple years as a line producer, e.g. for Netflix originals, he founded in 2022 freispace to implement a post-production scheduling software that he was missing on the job.
 
 
 ---
