@@ -871,11 +871,11 @@ Marit supports the production process with concepts for in-house tools and the h
 template:inverse
 
 
-.center[<img src="./img/logo.png" alt="logo" style="width:60%;">]
+.center[<img src="./img/qrcode_01.png" alt="qrcode_01" style="width:50%;">]
 
 
 #### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
 
-.center[<img src="./img/logo.png" alt="logo" style="width:60%;">]
+.center[<img src="./img/logo.png" alt="logo" style="width:30%;">]
 
 
