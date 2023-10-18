@@ -20,7 +20,11 @@ class: center, middle, inverse
 
 Ich aber beginne unseren gemeinsamen Nachmittag mit einem kurzen Blick auf Realität, sprich Current Numbers and Activities. 
   
-Dazu...
+Neben seiner Professur für für Film- und Fernsehproduktion an der Filmuniversität, ist **Martin Hagemann** Inhaber und Geschäftsführer der 1990 von ihm in Berlin mitgegründeten Produktionsfirma zero fiction film. Mit zero fiction films hat Martin Hagemann ca. 30 Spiel- und Dokumentarfilme, viele davon für den internationalen Markt, produziert. Produktionen der Zero Fiction Films haben eine Reihe and internationalen Preise unteranderem auch auf der Berlinale gewonnen. 
+
+Der 15-minütige Fantasy-Film EISSPIN DER SEHR SCHRECKLICHE ist eine Adaption von Walter Moers' "Der Schrecksenmeister" u.a. mit Christoph Maria Herbst und Katharina Thalbach. Der Film hatte am 25.09.feiert Weltpremiere beim Fantasy Filmfest. 
+
+Das Projekt ist Bachelor- und Masterabschlussfilm verschiedener Studierenden an der, hatte einen ungefähr 4-jährige Entstehungsprozess. Ich freue mich sehr, dass wir heute Adrian Doll hier vor Ort haben, er ist Regisseur des Films, Regie Student an der Filmuni bzw. die Film ist seine Bachelor-Arbeit. Adrian wird uns nun ein bisschen zum Entstehungsprozess des Films sagen.
 
 ---
 layout: false
@@ -791,7 +795,6 @@ Adrian Doll, Regisseur Film “Eisspin", Filmuni
 X Charlott Christin Buchholz, Head PP, AWS
 X Laila Lala, Founder & Green Consultant, Greenigma
 
-Neben seiner Professur für für Film- und Fernsehproduktion an der Filmuniversität, ist Martin Hagemann Inhaber und Geschäftsführer der 1990 von ihm in Berlin mitgegründeten Produktionsfirma zero fiction film. Mit zero fiction films hat Martin Hagemann ca. 30 Spiel- und Dokumentarfilme, viele davon für den internationalen Markt, produziert. Produktionen der Zero Fiction Films haben eine Reihe and internationalen Preise unteranderem auch auf der Berlinale gewonnen. 
 
 ---
 .header[Interviewpartners]
